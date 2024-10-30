@@ -5,7 +5,9 @@ const int segments = 3000;
 
 class HashTable
 {
-
+    int test()
+    {
+    }
 }
 
 int
